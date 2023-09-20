@@ -76,19 +76,21 @@ The following image shows the application's IndexedDB storage:
 The following has been placed here to meet requirements for review:
 
 
-Refer to this link [Heroku Deployed Application]() to view and explore the application and functions on deployed site on Heroku
+Refer to this link [Heroku Deployed Application](https://progressive-web-app-kg-bf94f2971fb5.herokuapp.com/) to view and explore the application and functions on deployed site on Heroku
 
-Refer to this link [GitHub Repository]() to view and explore the GitHub repo for this assignment
+Refer to this link [GitHub Repository](https://github.com/TheKhalidGibson/ProgressiveWebApplication) to view and explore the GitHub repo for this assignment
 
 
 ## Screenshots
 
 The following images reflect the functionality and final results of development for this deployed application:
 
-![Image showing the URL where the deployed application landing page can be found](./assets/image-4.png)
+This is an image showing the URL where the deployed application can be found
+![Image showing the URL where the deployed application can be found](./assets/pwaURLHeroku.png)
 
-![Image showing a landing page for a note taker application](./assets/image-1.png)
+This is an image showing the text editor application after deployment
+![Image showing the text editor application after deployment](./assets/pwaAppDeployed.png)
 
-![Image showing the URL where the deployed application can be found](./assets/image-3.png)
+This is an image showing the icon on my desktop after being installed
+![Image showing the icon on my desktop after being installed](./assets/pwaInstalledIcon.png)
 
-![Image showing a note taker application with stored data](./assets/image-2.png)
